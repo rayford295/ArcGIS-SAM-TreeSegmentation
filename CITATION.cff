@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Object Detection and Segmentation of Trees using Text SAM in ArcGIS Online (Code)"
+message: "If you use this repository, please cite the related chapter and relevant SAM references."
+authors:
+  - family-names: Yang
+    given-names: Yifan
+  - family-names: Borrelli
+    given-names: Dominic
+license: MIT
